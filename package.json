@@ -1,0 +1,24 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "bin": {
+    "simple-current": "./dist/current.js",
+    "add": "./dist/add.js",
+    "sub": "./dist/sub.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zicio",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.6.2"
+  },
+  "devDependencies": {
+    "@types/yargs": "^17.0.13",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
