@@ -4,9 +4,7 @@
   "description": "",
   "main": "./dist/index.js",
   "bin": {
-    "simple-current": "./dist/current.js",
-    "add": "./dist/add.js",
-    "sub": "./dist/sub.js"
+    "tool": "./dist/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

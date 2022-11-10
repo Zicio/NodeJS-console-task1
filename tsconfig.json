@@ -11,5 +11,5 @@
     "allowSyntheticDefaultImports": true
   },
 
-  "include": ["src/*"]
+  "include": ["index.ts"]
 }
